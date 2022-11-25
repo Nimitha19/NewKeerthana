@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Page_Object_Model.Action_Class$DWS_ComputersTest">
+        <methods>
+          <include name="demo"/>
+          <include name="hi"/>
+          <include name="Computer"/>
+        </methods>
+      </class> <!-- Page_Object_Model.Action_Class$DWS_ComputersTest -->
+      <class name="Page_Object_Model.Advances_search_pom2">
+        <methods>
+          <include name="demo"/>
+          <include name="Advance_Test"/>
+          <include name="hi"/>
+        </methods>
+      </class> <!-- Page_Object_Model.Advances_search_pom2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="Page_Object_Model.Advances_search_pom2"/>
+    	   <class name="Page_Object_Model.Action_Class"/>
+    	    <class name="Page_Object_Model.Books02"/>
+      <class name="Page_Object_Model.DWS_Login_Test"/>
+      <class name="Page_Object_Model.Gift_Card2"/>
+      <class name="Page_Object_Model.Handles2"/>
+      <class name="Page_Object_Model.Jewelry_02"/>
+      <class name="Page_Object_Model.Register_loginTest"/>
+      <class name="Page_Object_Model.Search_pom"/>
+      <class name="Page_Object_Model.Search02"/>
+      <class name="Page_Object_Model.Vote_pom"/>
+      <class name="Page_Object_Model.Whishlist_DWS"/>
+      <class name="Page_Object_Model.Advances_search_pom2"/>
+      <class name="Page_Object_Model.DWS_Newspapper02"/>
+      <class name="Page_Object_Model.Digital_homepage_02"/>
+      <class name="Page_Object_Model.contact_DWS02"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T17:36:48 IST" name="Suite" finished-at="2022-11-21T17:38:25 IST" duration-ms="97600">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T17:36:48 IST" name="Test" finished-at="2022-11-21T17:38:25 IST" duration-ms="97600">
+      <class name="Page_Object_Model.Search02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Search02@6c6cb480]" started-at="2022-11-21T17:37:45 IST" name="demo" finished-at="2022-11-21T17:37:49 IST" duration-ms="4241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="TC1()[pri:0, instance:Page_Object_Model.Search02@6c6cb480]" started-at="2022-11-21T17:37:49 IST" name="TC1" finished-at="2022-11-21T17:37:53 IST" duration-ms="4243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Search02@6c6cb480]" started-at="2022-11-21T17:37:53 IST" name="hi" finished-at="2022-11-21T17:37:53 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Search02 -->
+      <class name="Page_Object_Model.Gift_Card2">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Gift_Card2@1d296da]" started-at="2022-11-21T17:37:14 IST" name="demo" finished-at="2022-11-21T17:37:18 IST" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Gift_card()[pri:0, instance:Page_Object_Model.Gift_Card2@1d296da]" started-at="2022-11-21T17:37:18 IST" name="Gift_card" finished-at="2022-11-21T17:37:21 IST" duration-ms="3338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift_card -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Gift_Card2@1d296da]" started-at="2022-11-21T17:37:21 IST" name="hi" finished-at="2022-11-21T17:37:22 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Gift_Card2 -->
+      <class name="Page_Object_Model.DWS_Login_Test">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.DWS_Login_Test@776aec5c]" started-at="2022-11-21T17:37:08 IST" name="demo" finished-at="2022-11-21T17:37:12 IST" duration-ms="4015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="TC01()[pri:0, instance:Page_Object_Model.DWS_Login_Test@776aec5c]" started-at="2022-11-21T17:37:12 IST" name="TC01" finished-at="2022-11-21T17:37:14 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.DWS_Login_Test@776aec5c]" started-at="2022-11-21T17:37:14 IST" name="hi" finished-at="2022-11-21T17:37:14 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.DWS_Login_Test -->
+      <class name="Page_Object_Model.contact_DWS02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.contact_DWS02@22555ebf]" started-at="2022-11-21T17:38:20 IST" name="demo" finished-at="2022-11-21T17:38:23 IST" duration-ms="3497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="contact()[pri:0, instance:Page_Object_Model.contact_DWS02@22555ebf]" started-at="2022-11-21T17:38:23 IST" name="contact" finished-at="2022-11-21T17:38:25 IST" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.contact_DWS02@22555ebf]" started-at="2022-11-21T17:38:25 IST" name="hi" finished-at="2022-11-21T17:38:25 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.contact_DWS02 -->
+      <class name="Page_Object_Model.Digital_homepage_02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Digital_homepage_02@292b08d6]" started-at="2022-11-21T17:38:11 IST" name="demo" finished-at="2022-11-21T17:38:14 IST" duration-ms="3551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="tc01()[pri:0, instance:Page_Object_Model.Digital_homepage_02@292b08d6]" started-at="2022-11-21T17:38:14 IST" name="tc01" finished-at="2022-11-21T17:38:20 IST" duration-ms="5674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Digital_homepage_02@292b08d6]" started-at="2022-11-21T17:38:20 IST" name="hi" finished-at="2022-11-21T17:38:20 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Digital_homepage_02 -->
+      <class name="Page_Object_Model.Register_loginTest">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Register_loginTest@557caf28]" started-at="2022-11-21T17:37:33 IST" name="demo" finished-at="2022-11-21T17:37:37 IST" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="TC01()[pri:0, instance:Page_Object_Model.Register_loginTest@557caf28]" started-at="2022-11-21T17:37:37 IST" name="TC01" finished-at="2022-11-21T17:37:39 IST" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Register_loginTest@557caf28]" started-at="2022-11-21T17:37:39 IST" name="hi" finished-at="2022-11-21T17:37:39 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Register_loginTest -->
+      <class name="Page_Object_Model.Advances_search_pom2">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Advances_search_pom2@411f53a0]" started-at="2022-11-21T17:36:55 IST" name="demo" finished-at="2022-11-21T17:36:59 IST" duration-ms="4225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Advance_Test()[pri:0, instance:Page_Object_Model.Advances_search_pom2@411f53a0]" started-at="2022-11-21T17:36:59 IST" name="Advance_Test" finished-at="2022-11-21T17:37:01 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Advance_Test -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Advances_search_pom2@411f53a0]" started-at="2022-11-21T17:37:01 IST" name="hi" finished-at="2022-11-21T17:37:02 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Advances_search_pom2 -->
+      <class name="Page_Object_Model.Jewelry_02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Jewelry_02@75d4a5c2]" started-at="2022-11-21T17:37:26 IST" name="demo" finished-at="2022-11-21T17:37:30 IST" duration-ms="3918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Jewelry_02()[pri:0, instance:Page_Object_Model.Jewelry_02@75d4a5c2]" started-at="2022-11-21T17:37:30 IST" name="Jewelry_02" finished-at="2022-11-21T17:37:33 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jewelry_02 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Jewelry_02@75d4a5c2]" started-at="2022-11-21T17:37:33 IST" name="hi" finished-at="2022-11-21T17:37:33 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Jewelry_02 -->
+      <class name="Page_Object_Model.DWS_Newspapper02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.DWS_Newspapper02@206a70ef]" started-at="2022-11-21T17:38:06 IST" name="demo" finished-at="2022-11-21T17:38:10 IST" duration-ms="3519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Newsletter()[pri:0, instance:Page_Object_Model.DWS_Newspapper02@206a70ef]" started-at="2022-11-21T17:38:10 IST" name="Newsletter" finished-at="2022-11-21T17:38:10 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Newsletter -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.DWS_Newspapper02@206a70ef]" started-at="2022-11-21T17:38:10 IST" name="hi" finished-at="2022-11-21T17:38:11 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.DWS_Newspapper02 -->
+      <class name="Page_Object_Model.Whishlist_DWS">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Whishlist_DWS@c730b35]" started-at="2022-11-21T17:38:00 IST" name="demo" finished-at="2022-11-21T17:38:04 IST" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="WishlistTest()[pri:0, instance:Page_Object_Model.Whishlist_DWS@c730b35]" started-at="2022-11-21T17:38:04 IST" name="WishlistTest" finished-at="2022-11-21T17:38:06 IST" duration-ms="2574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishlistTest -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Whishlist_DWS@c730b35]" started-at="2022-11-21T17:38:06 IST" name="hi" finished-at="2022-11-21T17:38:06 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Whishlist_DWS -->
+      <class name="Page_Object_Model.Vote_pom">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Vote_pom@3c46e67a]" started-at="2022-11-21T17:37:53 IST" name="demo" finished-at="2022-11-21T17:37:57 IST" duration-ms="3921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Test_case1()[pri:0, instance:Page_Object_Model.Vote_pom@3c46e67a]" started-at="2022-11-21T17:37:57 IST" name="Test_case1" finished-at="2022-11-21T17:37:59 IST" duration-ms="2202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_case1 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Vote_pom@3c46e67a]" started-at="2022-11-21T17:37:59 IST" name="hi" finished-at="2022-11-21T17:38:00 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Vote_pom -->
+      <class name="Page_Object_Model.Handles2">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Handles2@7c7a06ec]" started-at="2022-11-21T17:37:22 IST" name="demo" finished-at="2022-11-21T17:37:26 IST" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="T3est_case()[pri:0, instance:Page_Object_Model.Handles2@7c7a06ec]" started-at="2022-11-21T17:37:26 IST" name="T3est_case" finished-at="2022-11-21T17:37:26 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T3est_case -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Handles2@7c7a06ec]" started-at="2022-11-21T17:37:26 IST" name="hi" finished-at="2022-11-21T17:37:26 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Handles2 -->
+      <class name="Page_Object_Model.Action_Class$DWS_ComputersTest">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Action_Class$DWS_ComputersTest@5bf0d49]" started-at="2022-11-21T17:36:48 IST" name="demo" finished-at="2022-11-21T17:36:54 IST" duration-ms="6282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Computer()[pri:0, instance:Page_Object_Model.Action_Class$DWS_ComputersTest@5bf0d49]" started-at="2022-11-21T17:36:54 IST" name="Computer" finished-at="2022-11-21T17:36:55 IST" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Computer -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Action_Class$DWS_ComputersTest@5bf0d49]" started-at="2022-11-21T17:36:55 IST" name="hi" finished-at="2022-11-21T17:36:55 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Action_Class$DWS_ComputersTest -->
+      <class name="Page_Object_Model.Books02">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Books02@5b7a5baa]" started-at="2022-11-21T17:37:02 IST" name="demo" finished-at="2022-11-21T17:37:06 IST" duration-ms="4108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="TC01()[pri:0, instance:Page_Object_Model.Books02@5b7a5baa]" started-at="2022-11-21T17:37:06 IST" name="TC01" finished-at="2022-11-21T17:37:08 IST" duration-ms="2449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Books02@5b7a5baa]" started-at="2022-11-21T17:37:08 IST" name="hi" finished-at="2022-11-21T17:37:08 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Books02 -->
+      <class name="Page_Object_Model.Search_pom">
+        <test-method is-config="true" signature="demo()[pri:0, instance:Page_Object_Model.Search_pom@408d971b]" started-at="2022-11-21T17:37:39 IST" name="demo" finished-at="2022-11-21T17:37:43 IST" duration-ms="3899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Test_case2()[pri:0, instance:Page_Object_Model.Search_pom@408d971b]" started-at="2022-11-21T17:37:43 IST" name="Test_case2" finished-at="2022-11-21T17:37:44 IST" duration-ms="1169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_case2 -->
+        <test-method is-config="true" signature="hi()[pri:0, instance:Page_Object_Model.Search_pom@408d971b]" started-at="2022-11-21T17:37:44 IST" name="hi" finished-at="2022-11-21T17:37:45 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Page_Object_Model.Search_pom -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
